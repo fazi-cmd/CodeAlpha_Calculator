@@ -1,7 +1,7 @@
-import Display from './assets/components/display'
+import Display from './assets/components/Display'
 import './App.css'
 import Container from './assets/components/Container'
-import Button from './assets/components/buttoncontainers'
+import Button from './assets/components/Buttoncontainers'
 import { useState } from 'react'
 function App() {
        const [Calval, setResult] = useState("");
